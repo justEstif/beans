@@ -7,10 +7,10 @@ import (
 
 	"github.com/charmbracelet/glamour"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/hmans/beans/internal/bean"
-	"github.com/hmans/beans/internal/graph"
-	"github.com/hmans/beans/internal/output"
-	"github.com/hmans/beans/internal/ui"
+	"github.com/justEstif/beans/internal/bean"
+	"github.com/justEstif/beans/internal/graph"
+	"github.com/justEstif/beans/internal/output"
+	"github.com/justEstif/beans/internal/ui"
 	"github.com/spf13/cobra"
 )
 

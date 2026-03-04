@@ -1,4 +1,4 @@
-module github.com/hmans/beans
+module github.com/justEstif/beans
 
 go 1.24.6
 

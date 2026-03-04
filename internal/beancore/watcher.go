@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/hmans/beans/internal/bean"
+	"github.com/justEstif/beans/internal/bean"
 )
 
 const debounceDelay = 100 * time.Millisecond

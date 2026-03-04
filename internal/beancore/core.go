@@ -14,9 +14,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hmans/beans/internal/bean"
-	"github.com/hmans/beans/internal/config"
-	"github.com/hmans/beans/internal/search"
+	"github.com/justEstif/beans/internal/bean"
+	"github.com/justEstif/beans/internal/config"
+	"github.com/justEstif/beans/internal/search"
 )
 
 const BeansDir = ".beans"

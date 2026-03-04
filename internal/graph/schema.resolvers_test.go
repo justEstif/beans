@@ -8,10 +8,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hmans/beans/internal/bean"
-	"github.com/hmans/beans/internal/beancore"
-	"github.com/hmans/beans/internal/config"
-	"github.com/hmans/beans/internal/graph/model"
+	"github.com/justEstif/beans/internal/bean"
+	"github.com/justEstif/beans/internal/beancore"
+	"github.com/justEstif/beans/internal/config"
+	"github.com/justEstif/beans/internal/graph/model"
 )
 
 func setupTestResolver(t *testing.T) (*Resolver, *beancore.Core) {

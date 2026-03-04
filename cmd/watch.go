@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hmans/beans/internal/beancore"
+	"github.com/justEstif/beans/internal/beancore"
 	"github.com/spf13/cobra"
 )
 

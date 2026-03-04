@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hmans/beans/internal/bean"
+	"github.com/justEstif/beans/internal/bean"
 )
 
 func TestPreviewView(t *testing.T) {

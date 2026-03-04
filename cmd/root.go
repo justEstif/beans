@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hmans/beans/internal/beancore"
-	"github.com/hmans/beans/internal/config"
+	"github.com/justEstif/beans/internal/beancore"
+	"github.com/justEstif/beans/internal/config"
 	"github.com/spf13/cobra"
 )
 

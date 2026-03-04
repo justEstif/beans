@@ -1,9 +1,9 @@
 package graph
 
 import (
-	"github.com/hmans/beans/internal/bean"
-	"github.com/hmans/beans/internal/beancore"
-	"github.com/hmans/beans/internal/graph/model"
+	"github.com/justEstif/beans/internal/bean"
+	"github.com/justEstif/beans/internal/beancore"
+	"github.com/justEstif/beans/internal/graph/model"
 )
 
 // ApplyFilter applies BeanFilter to a slice of beans and returns filtered results.

@@ -3,7 +3,7 @@ package ui
 import (
 	"testing"
 
-	"github.com/hmans/beans/internal/bean"
+	"github.com/justEstif/beans/internal/bean"
 )
 
 func TestBuildTree(t *testing.T) {

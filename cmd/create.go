@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hmans/beans/internal/config"
-	"github.com/hmans/beans/internal/graph"
-	"github.com/hmans/beans/internal/graph/model"
-	"github.com/hmans/beans/internal/output"
-	"github.com/hmans/beans/internal/ui"
+	"github.com/justEstif/beans/internal/config"
+	"github.com/justEstif/beans/internal/graph"
+	"github.com/justEstif/beans/internal/graph/model"
+	"github.com/justEstif/beans/internal/output"
+	"github.com/justEstif/beans/internal/ui"
 	"github.com/spf13/cobra"
 )
 

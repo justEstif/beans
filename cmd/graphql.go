@@ -15,7 +15,7 @@ import (
 	"github.com/tidwall/pretty"
 	"github.com/vektah/gqlparser/v2/formatter"
 	"github.com/vektah/gqlparser/v2/gqlerror"
-	"github.com/hmans/beans/internal/graph"
+	"github.com/justEstif/beans/internal/graph"
 )
 
 var (

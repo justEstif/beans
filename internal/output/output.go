@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hmans/beans/internal/bean"
+	"github.com/justEstif/beans/internal/bean"
 )
 
 // Error codes for JSON responses

@@ -6,9 +6,9 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"github.com/hmans/beans/internal/beancore"
-	"github.com/hmans/beans/internal/config"
-	"github.com/hmans/beans/internal/ui"
+	"github.com/justEstif/beans/internal/beancore"
+	"github.com/justEstif/beans/internal/config"
+	"github.com/justEstif/beans/internal/ui"
 )
 
 var (

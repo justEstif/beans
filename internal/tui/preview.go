@@ -4,8 +4,8 @@ import (
 	"strings"
 
 	"github.com/charmbracelet/lipgloss"
-	"github.com/hmans/beans/internal/bean"
-	"github.com/hmans/beans/internal/ui"
+	"github.com/justEstif/beans/internal/bean"
+	"github.com/justEstif/beans/internal/ui"
 )
 
 // previewModel is a read-only detail preview for the two-column layout.

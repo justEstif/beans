@@ -7,8 +7,8 @@ import (
 	"github.com/charmbracelet/bubbles/list"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/hmans/beans/internal/config"
-	"github.com/hmans/beans/internal/ui"
+	"github.com/justEstif/beans/internal/config"
+	"github.com/justEstif/beans/internal/ui"
 )
 
 // typeSelectedMsg is sent when a type is selected from the picker

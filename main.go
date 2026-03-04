@@ -1,6 +1,6 @@
 package main
 
-import "github.com/hmans/beans/cmd"
+import "github.com/justEstif/beans/cmd"
 
 func main() {
 	cmd.Execute()

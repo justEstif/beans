@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/hmans/beans/internal/bean"
-	"github.com/hmans/beans/internal/output"
+	"github.com/justEstif/beans/internal/bean"
+	"github.com/justEstif/beans/internal/output"
 	"github.com/spf13/cobra"
 )
 

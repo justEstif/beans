@@ -3,7 +3,7 @@ package cmd
 import (
 	"testing"
 
-	"github.com/hmans/beans/internal/bean"
+	"github.com/justEstif/beans/internal/bean"
 )
 
 func TestApplyTags(t *testing.T) {

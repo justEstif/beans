@@ -7,8 +7,8 @@ import (
 	"github.com/charmbracelet/bubbles/list"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/hmans/beans/internal/config"
-	"github.com/hmans/beans/internal/ui"
+	"github.com/justEstif/beans/internal/config"
+	"github.com/justEstif/beans/internal/ui"
 )
 
 // prioritySelectedMsg is sent when a priority is selected from the picker

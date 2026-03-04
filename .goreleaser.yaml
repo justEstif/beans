@@ -22,9 +22,9 @@ builds:
       - darwin
     ldflags:
       - -s -w
-      - -X github.com/hmans/beans/cmd.version={{.Version}}
-      - -X github.com/hmans/beans/cmd.commit={{.ShortCommit}}
-      - -X github.com/hmans/beans/cmd.date={{.Date}}
+      - -X github.com/justEstif/beans/cmd.version={{.Version}}
+      - -X github.com/justEstif/beans/cmd.commit={{.ShortCommit}}
+      - -X github.com/justEstif/beans/cmd.date={{.Date}}
 
 archives:
   - formats: [tar.gz]
@@ -72,7 +72,7 @@ homebrew_casks:
   - repository:
       owner: hmans
       name: homebrew-beans
-    homepage: "https://github.com/hmans/beans"
+    homepage: "https://github.com/justEstif/beans"
     description: "Agentic-first issue tracker"
     license: "Apache-2.0"
     hooks:

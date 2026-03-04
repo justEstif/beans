@@ -3,7 +3,7 @@ package tui
 import (
 	"testing"
 
-	"github.com/hmans/beans/internal/bean"
+	"github.com/justEstif/beans/internal/bean"
 )
 
 func TestSortBeans(t *testing.T) {

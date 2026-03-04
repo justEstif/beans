@@ -3,8 +3,8 @@ package graph
 import (
 	"fmt"
 
-	"github.com/hmans/beans/internal/bean"
-	"github.com/hmans/beans/internal/beancore"
+	"github.com/justEstif/beans/internal/bean"
+	"github.com/justEstif/beans/internal/beancore"
 )
 
 //go:generate go tool gqlgen generate
